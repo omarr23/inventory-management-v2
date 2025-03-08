@@ -1,6 +1,4 @@
 # Ignore Debug and obj folders
-**/bin/
-**/obj/
-**/Debug/
+
 
 appsettings.json
