@@ -23,7 +23,6 @@ Run the following command to restore all required NuGet packages:
 ```sh
 dotnet restore
 ```
-> **Does `dotnet restore` restore Entity Framework (EF) packages for SQL Server?**
 
 ## Step 3: Build the Project
 Compile the project by running:
